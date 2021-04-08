@@ -1,2 +1,444 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="",
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/0V2Snsz/asesinos.jpg", Asesinos.
+https://www.googleapis.com/drive/v3/files/1-CDZlY_Ic1sj6YVOjRhudtg35WIKgTG5?alt=media&key=AIzaSyCB_dfyaadx9vfgrHmLI03phz_6N7RGPwk
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fs4vmvq/mercenarios1.jpg",Mercenarios de Elite (2020)
+https://archive.org/download/tinaco_20210405/H4rd.mkv
+#EXTINF:-1 tvg-logo="https://archive.org/download/lod_20210405/lod.png",La fuerza de la naturaleza
+https://archive.org/download/52_20210405/52.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/17TPydR/El-arte-de-defenderse.jpg",El arte de defenderse (2019)
+https://archive.org/download/eadd_20200222/Finde/EADD.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VMsMQbC/Danny-the-Dog.jpg",Danny the dog (2005)
+https://archive.org/download/thdg_20200308/dn%20th%20dg/thdg.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3Vdm0h/Braveheart.jpg",Braveheart (1995)
+https://archive.org/download/gravity-2013/Braveheart%20%281995%29.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kywkhkg/Butterfly.jpg",Butterfly Kisses (2018)
+https://archive.org/download/fuck-gustaflix_202006/Butterfly%20Kisses%20%282018%29.mkv
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Busqueda Implacable 1" tvg-logo="https://fanart.tv/fanart/movies/8681/movieposter/taken-589a551493e7e.jpg",Búsqueda Implacable 1
+https://dl.dropbox.com/s/alk0xsqaldk0pwu/busqueda%20implacable.mp4
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Busqueda Implacable 2" tvg-logo="https://fanart.tv/fanart/movies/82675/movieposter/taken-2-5233a5d0648d2.jpg",Búsqueda Implacable 2
+https://dl.dropbox.com/s/g5gn4grp0elsslo/busqueda%20implacable%202.mp4
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Busqueda Implacable 3" tvg-logo="https://i.ibb.co/G79HWPL/tak3n.png",Búsqueda Implacable 3
+https://dl.dropbox.com/s/2gjhmrm9hzgjg2c/busqueda%20implacable%203.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0n4B3Cj/Caballo-de-Guerra.jpg",Caballo de Guerra (2011)
+http://archive.org/download/C4B4LL0D33GU3RR4444/C4B4LL0%20D33%20GU3RR4444.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1sJL4L0/Alex-Cross.jpg",Alex Cross (2012)
+http://archive.org/download/217u92t33/4L3X%20CR0022.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pwDwN63/1917.jpg",1917 (2019) (Op. 2)
+https://archive.org/download/tapita/tapita/tapita.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YjvjSf/60-Segundos.jpg",60 Segundos (2000)
+https://archive.org/download/035_20200504/035.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mhVM4xS/7500-5414b2b35cefb.jpg", 7500 (2019)
+https://dl.dropbox.com/s/0u75i49lo9svau3/7500.2019.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/14/02/27/10/09/045962.jpg",ARMA MORTAL 1
+http://fina.dyndns.tv/Peliculas/Arma%20Mortal%201.mkv
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/av68pvleo5rar7g/arma%20%20mortal%202.jfif",ARMA MORTAL 2
+http://fina.dyndns.tv/Peliculas/Arma%20Mortal%202.mkv
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ai36bum0okf8u2u/arma%20mortal%203.jpg",ARMA MORTAL3
+http://fina.dyndns.tv/Peliculas/Arma%20Mortal%203.mkv
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71X0ZRsGPOL._SY445_.jpg",ARMA MORTAL 4
+http://fina.dyndns.tv/Peliculas/Arma%20Mortal%204.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRz69dL/007-Casino-Royale.jpg",007 - Casino Royale
+http://archive.org/download/mio53_yopmail_5/5.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SNDknx3/007-El-ma-ana-nunca-muere.jpg",007 - El mañana nunca muere
+http://archive.org/download/mio53_yopmail_2/2.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8mnX3Gn/007-El-mundo-no-basta.jpg",007 - El mundo no basta
+http://archive.org/download/mio53_yopmail_3/3.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RH91m8H/007-Goldeneye.jpg",007 - Goldeneye
+http://archive.org/download/mio53_yopmail_1/1.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pPr2MWy/007-Otro-d-a-para-morir.jpg",007 - Otro día para morir
+http://archive.org/download/mio53_yopmail_4/4.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q7xTWWF/007-Quantum.jpg",007 - Quantum
+http://archive.org/download/mio53_yopmail_6/6.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GpfLbHm/007-Skyfall.jpg",007 - Skyfall
+http://archive.org/download/mio53_yopmail_7/7.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kg3FFwh/007-Spectre.jpg",007 - Spectre
+http://archive.org/download/mio53_yopmail_8/8.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kHNt380/10-Minutos-Para-Morir.jpg",10 Minutos Para Morir
+https://dl.dropboxusercontent.com/s/gudmdnmk6qxyyln/angeles%20de%20charly.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xShsP98/22-Balas.jpg",22 balas
+https://archive.org/download/22b4l42/22%20B4L42.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WpKKNjk/300-Prepare-for-Glory.jpg",300
+https://ia601509.us.archive.org/32/items/nhu9tdftu/nhu9tdftu.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y3kYtSB/300-Nacimiento-de-un-imperio.jpg",300: El nacimiento de un imperio
+https://ia601509.us.archive.org/32/items/nhu9tdftu/bvuwv.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HBtTDFg/cc.jpg",7 aNos en el Tibet
+https://archive.org/download/7at_20200608/7an/7at.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MD8pHQY/A-Walk-Among-the-Tombstones.jpg",A Walk Among the Tombstones (2014)[Eng]
+https://archive.org/download/linuxmint_202101/A%20Walk%20Among%20the%20Tombstones%20%282014%29.mkv
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/438590/movieposter/a-x-l-5e23803225043.jpg",A.X.L
+https://archive.org/download/ax_20200528/ax.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Mgjw64/Acceleration.jpg",Acceleration
+https://dl.dropboxusercontent.com/s/lvmdx920raodlpm/Acceleration.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FmTSCzs/Agente-Bajo-Fuego.jpg",Agente Bajo Fuego
+https://archive.org/download/agtbf/cassa/agtbf.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ykmsyPV/Ahora-son-13.jpg",Ahora son 13
+https://archive.org/download/jois_20200512/MWREN/3%20stf.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QpKXsyn/Angeles-de-Charly.jpg",Angeles de Charlie
+https://dl.dropboxusercontent.com/s/gudmdnmk6qxyyln/angeles%20de%20charly.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPK7BJB/Archive-2020-PS3-Ultimate.jpg",Archive (2020)
+https://archive.org/download/sabayon-linux/Archive%20%282020%29.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ssVJBbd/Arma-Mortal1.jpg",Arma mortal 1
+https://archive.org/download/4rm-4-m-0rt-4l-2/choby/4rm4%20M0rt4l.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNzTj9r/Arma-Mortal2.jpg",Arma mortal 2
+https://archive.org/download/4rm-4-m-0rt-4l-2/choby/4rm4%20M0rt4l%202.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VHYWxzm/Arma-Mortal3.jpg",Arma mortal 3
+https://archive.org/download/4rm-4-m-0rt-4l-2/choby/4rm4%20M0rt4l%203.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HtjzMn5/Arma-Mortal-4.jpg",Arma mortal 4
+https://archive.org/download/4rm-4-m-0rt-4l-2/choby/4rm4%20M0rt4l%204.avi
+#EXTINF:-1 tvg-logo="https://archive.org/download/1_20201022_20201022_2011/Today/1.png",Armageddon
+https://archive.org/download/1_20201022_20201022_2011/Today/1.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F7pFf6s/Artemis-Fowl-2020-PS3-Ultimate.jpg",Artemis Fowl (2020)
+https://archive.org/download/sabayon-linux/Artemis%20Fowl%20%282020%29.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6sxzqv4/bb.jpg",Asesinos por naturaleza
+https://archive.org/download/7at_20200608/zmxn/acciN.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k3DYFmf/atrapado.jpg",Atrapado (2020)
+https://archive.org/download/almohadas/C4o7ur4d0.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R6bQ8nr/g-Bgu-H1-Dpup8a16x-TD9b2-MRJ4lvf.jpg",Ava (2020)
+https://archive.org/download/manjaro-linux/Ava%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vvr2fbj/Bad-Boys-3.jpg",Bad Boys 3
+https://archive.org/download/mendukotv/mendukotv.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6WKhrqc/bajo-cero.jpg",Bajo Cero (2021) 
+https://archive.org/download/almohadas/B4j0%20C3r0.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7yz5v9j/Bastardos-sin-Gloria.jpg",Bastardos sin gloria
+https://archive.org/download/chocolate_202004/chocolate/chocolate.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qBk1YfR/Batalla-Los-Angeles.jpg",Batalla Los Angeles
+https://archive.org/download/005_20200426_202004/005.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PzYydg1/Black-and-blue.jpg",Black and blue 
+https://archive.org/download/1_20200428/1.2/2.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NmbwbGZ/Blade-Runner.jpg",Blade Runner
+https://archive.org/download/006_20200426/006.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PhYCKrJ/Bloodshot.jpg",Bloodshot (2020)
+https://ia801407.us.archive.org/5/items/san_20200511/San.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wng0b1V/bravehearth.jpg",Braveheart (1995)
+https://archive.org/download/gravity-2013/Braveheart%20%281995%29.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j6Cm3Gv/Burn.jpg",Burn
+https://archive.org/download/1_20200428/1.2/4.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x5JXdzB/B-squeda-implacable-2.jpg",Búsqueda implacable 2 (2012)
+https://dl.dropbox.com/s/iaxes78xjrcpw7x/B%C3%BAsqueda%20implacable%202%20Venganza%20Conexi%C3%B3n%20Estambul%20%282012%29.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvF59TZ/cabo.jpg",Cabo de miedo 
+https://archive.org/download/pssi_20200515/fryu/cdm.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcW4P6C/carreras-clandestinas.jpg",Carreras clandestinas
+https://archive.org/download/bicicleta_202005/Bicicleta.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KWhKh9n/Casino.jpg",Casino
+https://archive.org/download/ziinoca/opmp/ziinoca.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yqGNQs8/Caza-mayor-2014.jpg",Caza mayor (2014)
+https://dl.dropbox.com/s/9mjltgzxtz9v8w3/Caza%20Mayor.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H2thptV/chungking-1.jpg",Chungking Express
+https://archive.org/download/astol/mon/astol.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/30Gb40r/Comando.jpg",Comando
+https://archive.org/download/comando_202004/Comando.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PmzxWGx/Congo.jpg",Congo
+https://archive.org/download/africa_202004/africa/africa.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2WwxvRK/Contagio.jpg",Contagio
+https://archive.org/download/53843645/5384_3645.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F6RKvtv/Corazon-de-Dragon.jpg",Corazón de Dragon
+https://dl.dropbox.com/s/bdkmf41nbf2o1ms/corazondedragon.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DthVCqM/cosmoball.jpg",Cosmoball (2020)
+https://archive.org/download/manguera/C05m0b411.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3TzM8x4/De-ladron-a-policia.jpg",De ladrón a policía
+https://archive.org/download/jabali_202004/jabali/jabali.mkv
+#EXTINF:-1 tvg-logo="https://archive.org/download/posterdeathproof/poster%20death%20proof.png",Death Proof
+https://archive.org/download/platano/platano/platano.mp4
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Death Race" tvg-logo="https://pics.filmaffinity.com/death_race-510781879-large.jpg",Death Race
+https://archive.org/download/100006_201909/100006.wmv
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Death Race 2" tvg-logo="https://storage.googleapis.com/isnottv_cine/lv_seo_items/lv_549582b7af06c4bebc7078fb72341ed6_420.jpg",Death Race 2
+https://archive.org/download/10007_202002/10007.wmv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/28xHDX9/Dia-de-entrenamiento.jpg",Dia de entrenamiento
+https://archive.org/download/vvv000/om/vvv000.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/256dftg/Django-Desencadenado.jpg",Django Desencadenado
+https://archive.org/download/maiz23/maiz/maiz%2023.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bLj1Phk/Dr-Strange.jpg",Doctor Strange (op. 2)
+https://archive.org/download/avispa.1080p.lat.www.hackstore.net/ERE34/DRextra%C3%B1oLATHD.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSjPzSg/Donnie-Brasco.jpg",Donnie Brasco
+https://archive.org/download/jois_20200512/MWREN/DNNB.avi
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/141/movieposter/donnie-darko-5cc0a5784bf16.jpg",Donnie Darko
+https://dl.dropboxusercontent.com/s/sjjsnx11rgofro9/Donnie.Darko.2001.SS_CANY.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f9HKDzL/Duro-de-Espiar.jpg",Duro de espiar
+https://dl.dropbox.com/s/51sezy2a85ge8h7/Duro%20De%20Espiar.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ky9g8Fn/Independence-Day.jpg",Día de la Independencia (op. 2)
+http://archive.org/download/npr82752_zoqqa_1_201903/subid0_p4r4_str34ming_a85/1.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NCVr2SW/El-Demoledor.jpg",El demoledor
+https://ia601507.us.archive.org/10/items/bfrbc/8047575.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fHR5NjP/El-Gran-Asalto.jpg",El gran asalto
+https://archive.org/download/22b4l42/211.mp4
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/425505/movieposter/kin-5be93e88e7edc.jpg",El legado
+http://regioflix.club/REGIO2020/280520XX/k1n.2018.hdrip.720p.latino.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vDQd1Zt/El-Marine.jpg",El Marine 1
+https://archive.org/download/elmari2dvdlat/mrne/elmari1dvdlat.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PW958C1/El-Marine-2.jpg",El Marine 2
+https://archive.org/download/elmari2dvdlat/mrne/elmari2dvdlat.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HzqHKf9/El-Marine-3.jpg",El Marine 3
+https://archive.org/download/elmari2dvdlat/mrne/elmarin3dvdlat.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xsSdjY6/El-Marine-4.jpg",El Marine 4
+https://archive.org/download/elmari2dvdlat/mrne/elmarin4dvdlat.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kxrJsTb/El-mensajero.jpg",El mensajero   
+https://archive.org/download/pel-0-.mp-4/Varias/PEL0%20.mp4.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1TwCL5D/El-Perfecto-Asesino.jpg",El Perfecto Asesino (1994)
+https://archive.org/download/pssi_20200515/fryu/pssi.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rst2nMr/El-Principe-Encantado.jpg",El Príncipe Encantado
+http://archive.org/download/AnimalesFantsticos20182564564445646/2%2B892%2B2%2B2522Principe%20Encantado654196165468564168%20%282018%29.mp4
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="El Ultimo Samurai" tvg-logo="http://es.web.img2.acsta.net/c_215_290/medias/nmedia/18/67/78/13/20066706.jpg",El Último Samurai
+https://archive.org/download/1_20191226_20191226/1.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BZ8h47D/Enemigo-Mio.jpg",Enemigo mío
+https://dl.dropbox.com/s/1bgxrybhjh6tqe4/enemigo%20mio%20%281985%29%20720p.mkv
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/7299/movieposter/equilibrium-52c829761cf45.jpg",Equilibrium
+https://dl.dropbox.com/s/mqtimdzmxtb0s8q/Equilibrium%202002%20%28SS_CANY%29.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTGZ4Fq/Escape-From-LA.jpg",Escape de Los Ángeles
+https://archive.org/download/sdalogo0400x400/32C4P3%20D3%20L02%204NG3132.mkv
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/846/movieposter/the-x-files-fight-the-future-52167f97a90da.jpg",Expedientes secretos X
+https://dl.dropbox.com/s/0dzynfvn6qyxxgc/Expedientes%20Secretos%20X.avi
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/8836/movieposter/the-x-files-i-want-to-believe-521b8fe1be95d.jpg",Expedientes secretos X 2
+https://dl.dropbox.com/s/entvkg9vcdkm0hb/Expedientes%20secretos%20X%202%20Creer%20es%20la%20clave%20%282008%29.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k40CGFf/Force-of-Nature-2020.jpg",Force of Nature (2020)
+https://dl.dropbox.com/s/81hsunfcyer6bbv/forceofnature.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N1ftkg9/Francotirador.jpg",Francotirador
+https://archive.org/download/11.-2014-hd-dual-lat.c_202005/American.sniper.2014-hd-dual-lat.c.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8BgYY5/Goodfellas.jpg",Goodfellas 
+https://archive.org/download/goodfellas.1990.lati/Buenos%20Muchachos.1990/Goodfellas.1990.lati.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6Y836LV/3-CKb-EXrw88-LNv-BU3ba-ISh1-I7-JP4.jpg",Gravedad (2013)
+https://archive.org/download/gravity-2013/Gravity%20%282013%29.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYbNyWk/Asd-B9-A2-XGal-CZVjly-G9t-Rf03-If-W.jpg",Greyhound: Enemigos bajo el mar (2020)
+https://dl.dropbox.com/s/rbiy36qy2rr7wwu/Greyhound%20HDR%20Latino.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f98ZmCb/Guardianes-Dela-Noche.jpg",Guardianes de la noche
+http://archive.org/download/0guardianes0de0la0Noche/0guardianes0de0la0Noche.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7b9nSLf/Habia-una-vez-en-Hollywood.jpg",Había una vez en Hollywood
+https://archive.org/download/www.megamk.comesta720/Www.Mega-Mk.com-ESTA-720.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9HR2jMD/Hijos-de-la-Calle.jpg",Hijos de la calle
+https://archive.org/download/jois_20200512/MWREN/jois.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X5V9y9T/Historia-Policial.jpg",Historia policial
+https://archive.org/download/refrigeradora/refrigeradora.mkv
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_fuego_de_la_venganza-553346603-large.jpg",Hombre en Llamas 
+https://archive.org/download/h-0-mbr-33-nll-4-m-4-hd-00069/H0MBR33NLL4M4HD00069%5Bjspeliculashd.wordpress.com%5D.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ygbhg7v/Hombres-dementes.jpg",Hombres de mentes
+https://archive.org/download/kohbn/ptol/mkpoij.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rp55v6f/Hostiles.jpg",Hostiles
+https://dl.dropbox.com/s/kbq46mfizyo9pr5/HOSTILES.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FYjNvc2/How-high.jpg",How High
+https://archive.org/download/jois_20200512/MWREN/HHRM.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FK9rcC/Indiana-Jones.jpg",Indiana Jones 1
+https://dl.dropbox.com/s/glap8cklng5s4o7/Indiana%20Jones%201.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qnhLVg0/Indiana-Jones2.jpg",Indiana Jones 2
+https://dl.dropbox.com/s/930hhnikj4q9ems/Indiana%20Jones%202.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BZgKsHv/Indiana-Jones3.jpg",Indiana Jones 3
+https://dl.dropbox.com/s/9bkndb3erqlkkdj/Indiana%20Jones%203.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VwL8t8n/Indiana-Jones4.jpg",Indiana Jones 4
+https://dl.dropbox.com/s/9nor2igo7g211pg/Indiana%20Jones%204.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LZGQxFL/Interstellar-2014.jpg",Interstellar (2014)
+https://archive.org/download/interstellar-2014/Interstellar%20%282014%29.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HK5hFbd/IP-man.jpg",Ip Man
+https://archive.org/download/7823964/1231230001.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7vDJ3yR/IP-man-2.jpg",Ip Man 2
+https://archive.org/download/7823964/1231230002.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f8qLBjr/IP-man-3.jpg",Ip Man 3
+https://archive.org/download/7823964/1231230003.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YBWC10y/IP-man-4.jpg",Ip Man 4
+https://archive.org/download/7823964/1231230004.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nsd56ww/Jackie-Brown.jpg",Jackie Brown
+https://archive.org/download/gaseosa/gaseosa/gaseosa.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YZmt0vh/Jhon-Wick-Sin-Control.jpg",Jhon Wick 1 : Sin Control
+https://archive.org/download/johnwicksincontrol2014dvdriplatinothriller/John%20Wick%20Sin%20Control%20%282014%29%20Dvdrip%20Latino%20%5BThriller%5D.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGy6S7k/jiu-jitsu.jpg",Jiu Jitsu (2020)
+https://archive.org/download/almohadas/Jiu%205i7su.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58ccZY9/John-Wick-un-nuevo-dia.jpg",John Wick 2 : Un nuevo día para matar
+https://archive.org/download/MOJO2019-08-22/2.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBw7BH2/John-Wick-3-Parabellum.jpg",John Wick 3 : Parabellum
+http://archive.org/download/direcionaudiovisual/DIRECION%20AUDIO%20VISUAL.mp4
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/8247/movieposter/jumper-5217d18c09335.jpg",Jumper
+https://archive.org/download/356792-1026835/356792___1026835.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G271knf/Karate-Kid1.jpg",Karate Kid
+https://archive.org/download/karatekid1/Karate%20Kid%201.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fkCBDnY/Karate-kid2.png",Karate Kid - Parte II
+https://archive.org/download/karatekid1/Karate%20Kid%202.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/przc51T/Karate-Kid3.jpg",Karate Kid - Parte III
+https://archive.org/download/karatekid3_202004/Karate%20Kid%203.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CnKtyhp/Kill-Bill-Volume-1.png",Kill Bill vol.1
+https://archive.org/download/agridulce1/agridulce/agridulce%201.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4ZgPfN/Kill-Bill-VOl2.jpg",Kill Bill vol.2
+https://archive.org/download/chicle/chicle/chicle.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6HRF9gb/LA-gran-estafa.jpg",La gran estafa
+https://archive.org/download/kohbn/ptol/wsde.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VwGcwwM/La-Maquina-del-Tiempo.jpg",La maquina del tiempo
+https://ia601408.us.archive.org/15/items/123a_20191206/09mnjg.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4gFsLHz/La-nueva-gran-estafa.jpg",La Nueva Gran Estafa
+https://archive.org/download/jois_20200512/MWREN/2stf.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vjd0fjy/La-Odisea.jpg",La odisea
+https://archive.org/download/l732_20200213/L732.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0D1nJwt/La-tierra-y-la-sangre.jpg",La tierra y la sangre  
+https://archive.org/download/1_20200428/1.2/3.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7k8Rpb9/legend.jpg",Leyenda profesión de la violencia 
+https://archive.org/download/pssi_20200515/fryu/llendale.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmy6VCT/Los-Se-ores-de-la-mafia.jpg",Los Señores de la Mafia
+https://archive.org/download/oxtar/gaxx/oxtar.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rtNbD5M/Lucy.jpg",Lucy
+http://archive.org/download/erling44_198f_ymail3_Cubo/5.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NFddMs3/Mad-Max-furia-en-el-Camino.jpg",Mad Max: Furia en el Camino 
+https://archive.org/download/029_20200428/030.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f2Vk66C/Manhattan-sin-salida-2019.jpg",Manhattan sin salida (2019)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FsY4cwD/Matrix-Revoluciones.jpg",Matrix: Revoluciones
+https://archive.org/download/amt_20200306/thmtx/mt3.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3cMsP9M/Maze-Runner-correr-o-morir.jpg",Maze Runner 1 : Correr o Morir
+https://archive.org/download/mz_20200505/Maze1/MZ.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xfm5yND/Maze-Runner-Prueba-de-fuego.jpg",Maze Runner 2 : Prueba de fuego
+https://archive.org/download/maze.-2/Maze2/MAZE.2.mkv
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/336843/movieposter/maze-runner-the-death-cure-5a32a20a0b6af.jpg",Maze Runner 3 : La cura mortal
+https://archive.org/download/maz-3/MZ3/MAz3.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TcHKNnX/Mexican-Gangsters.jpg",Mexican Gangster (2013)
+https://archive.org/download/solf-12/onai/mgs.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LprT3Hd/Miedo-y-Asco-en-las-Vegas.jpg",Miedo y Asco en las Vegas
+https://archive.org/download/myav_20200511/zik/myav.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BVPFBk2/mili.jpg",Milagro en la calle 8
+https://archive.org/download/3l-4rt-3-d-3l-d-14bl-0-1/champurrado/M1l4gr0%203n%20l4%20C4ll3%208.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qNYqgXc/Mision-de-Rescate.jpg",Misión de Rescate
+https://archive.org/download/pel_20200426/POP/PEL.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3v1x3Tg/eee.jpg",Mátalos Suavemente
+https://archive.org/download/solf-12/onai/SOLF12.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pPtkxB7/Olvidados-en-Phoenix.jpg",Olvidados en Phoenix
+https://dl.dropboxusercontent.com/s/81r8t8pijg886kl/Olvidados%20en%20Fenix.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rdvwmdT/cover.jpg",Parker (2013)
+https://archive.org/download/quimica1_202009/Parker%20%282013%29.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LnZwPd0/Prisionero-X.jpg",Prisionero X
+https://dl.dropbox.com/s/tohm2fuxz6uupxo/Prisoner%20X.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z21Dc96/proximity.jpg",Proximity
+https://dl.dropbox.com/s/1wps6r6f7rv0cnm/Proximity%20%282020%29%C9%A2%CE%B5%D0%B3%E0%B8%A3%CF%83%C5%8B1620.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dcbpHjc/Proyect-Almanac.jpg",Proyecto Almanaque
+https://dl.dropboxusercontent.com/s/jrn5kyiy4dq4cym/Proyecto-Almanac.mp4?fbclid=IwAR1yIgHOOozsmax04dEEKAji8YWdcDJrFrVT5Iq26CU_E6yTftl80JjKpak
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TkSRqy7/Pura-Energia.jpg",Pura Energía
+https://archive.org/download/kohbn/ptol/kohbn.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r0NsVnW/Blood-and-Bone.jpg",Puños Mortales 
+https://archive.org/download/040_20200504/040.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nc1xXqn/Mas-Rapidos-mas-furiosos.jpg",Rapido y Furioso 2 Más Rápido y más Furioso
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20002.MP4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hmB79yB/Rendel.jpg",Rendel
+https://dl.dropboxusercontent.com/s/dlkhee84f7w40sy/Rendel.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6XzPHH8/Reservoir-Dogs.jpg",Reservoir Dogs
+https://archive.org/download/maracuya/maracuya/maracuya.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NtMzkXX/Robocop-1.jpg",Robocop 1
+https://archive.org/download/zzroti/zzroti/zzroti.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yp9HwQC/Robocop-3.jpg",Robocop 3
+https://archive.org/download/zzroti3/zzroti3.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pdjwQmD/Rapido-y-Furioso.jpg",Rápido y furioso
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20001.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MPL7fv2/Rapidos-y-furiosos-Reto-Tokyo.jpg",Rápido y furioso 3: Reto Tokio
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20003.MP4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nc1xXqn/Mas-Rapidos-mas-furiosos.jpg",Rápido y Furioso Más Rápido y más Furioso
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20002.MP4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MPL7fv2/Rapidos-y-furiosos-Reto-Tokyo.jpg",Rápido y furioso: Reto Tokio
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20003.MP4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PWV5XRG/Rapidoy-Furiozo.jpg",Rápidos y furiosos
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20004.MP4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PWV5XRG/Rapidoy-Furiozo.jpg",Rápidos y furiosos 4
+https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20004.MP4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2sCbQfF/Rapidos-Y-Furiosos-Sin-Control.jpg",Rápidos y furiosos 5: Sin control
+https://archive.org/download/qwertgf08/qwertgf/qwertgf%2005.MP4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HXmn2VZ/Rapidos-y-Furiosos-6.jpg",Rápidos y furiosos 6
+https://archive.org/download/qwertgf08/qwertgf/qwertgf%2006.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kzx6YKM/Rapidos-y-Furiosos-7.jpg",Rápidos y furiosos 7
+https://archive.org/download/qwertgf08/qwertgf/qwertgf%2007.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sRD3Tg9/Raapidos-y-Furiosos-8.jpg",Rápidos y furiosos 8
+https://archive.org/download/qwertgf08/qwertgf/qwertgf%2008.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HzZqnwr/Rapidos-y-Furiosos-Hobbs.jpg",Rápidos y furiosos: Hobbs & Shaw
+https://archive.org/download/hobysha/buho/hobysha.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z22p6HQ/Sangre-Por-Sangre.jpg",Sangre Por Sangre 
+https://archive.org/download/sang_20200511/Sang/Sang.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PjSrbRT/Se-ales.jpg",Señales
+https://archive.org/download/dibujo_202004/dibujo/dibujo.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zxjYRJG/cover.jpg",Siberia (2018)
+https://archive.org/download/siberia-mandriva/Siberia%20%282018%29.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DbGcFRW/Sin-City.jpg",Sin City: La Ciudad del Pecado (2005)
+https://archive.org/download/sciyt/Mhuc/sciyt.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K0JkYMJ/Skylines-2021.jpg",Skylines (2021)[Eng]
+https://archive.org/download/mandragora-linux/tmp77/Skylines%20%282021%29.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/11/05/12/34/467914.jpg",Snatch: Cerdos y Diamantes
+https://archive.org/download/solf-12/onai/scd.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0JhQbT/Stargate.jpg",Stargate
+http://archive.org/download/npr82752_zoqqa_1_20190323/subid0_p4r4_stre4ming_a85/1.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kHT6QqQ/Sangre-y-Gloria.jpg",Sudor y Gloria
+https://ia601507.us.archive.org/10/items/bfrbc/ovn.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vsTV8f1/Taxi-2.jpg",Taxi 2
+https://archive.org/download/taxderni/Tax2Cast.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z2Y5tCS/Taxi-3.jpg",Taxi 3
+https://archive.org/download/taxderni/Tax3Cast.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HTP9VNC/T4xi.jpg",Taxi 4
+https://archive.org/download/taxderni/Tax4Cast.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7VW0ngd/Taxi-Express.jpg",Taxi Express
+https://archive.org/download/taxderni/Tax1Cast.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B3pZ2nx/Terremoto-La-Falla-de-san-Andres.jpg",Terremoto: La falla de San Andrés
+https://archive.org/download/00100_20190920_0442/00100.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RSzPT9S/cover-2.jpg",The Climbers (2019)
+https://archive.org/download/quimica1_202009/The%20Climbers%20%282019%29.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKPFhT6/8-Ru5m-AKya-Rb-Fp-ANkh-Vl-Pzc-Okq-FB.jpg",The Fanatic (2019)
+https://archive.org/download/linux_2020/The%20Fanatic%20%282019%29.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYbh5W7/the-imaginarium-of-doctor-parnassus-532f0a6bc0ad6.jpg",The Imaginarium of Doctor Parnassus
+https://dl.dropboxusercontent.com/s/ybel9j3pxn5spkt/The.Imaginarium.of.Doctor.Parnassus.2009.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gSFTVCF/Webp-net-resizeimage-3.jpg",The kid
+https://archive.org/download/ziinoca/opmp/troencu.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dcKjzBf/amcri.png",The Last Days of American Crime
+https://dl.dropbox.com/s/6o3dyszxv5gqq9n/The.Last.Days.of.American.Crime.2020.%28SS_CANY%29.mp4
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/286217/movieposter/the-martian-557f2cac36753.jpg",The Martian
+https://archive.org/download/mr_20200529/MR.mkv
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/449992/movieposter/the-night-comes-for-us-5bc0955982d20.jpg",The Night Comes for Us
+https://archive.org/download/vigota/vigota.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Sdp6dv/ii.jpg",The Old Guard (2020)
+https://dl.dropbox.com/s/2dlws4f8y42dq3m/The.Old.Guard.2020.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6v12p7X/Criminal-City-P1.jpg",The Outlaws
+https://dl.dropbox.com/s/vgcs6zwszfeuebt/The%20Outlaws%20%282017%29SS_CANY.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CMxC72P/The-Warriors.jpg",The Warriors (1979)
+https://ia801400.us.archive.org/18/items/Guerreros/Guerreros.mp4
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/338970/movieposter/tomb-raider-5b0d895925482.jpg",Tomb Raider
+https://archive.org/download/tmbrder/tr/Tmb%20rder.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1G72dDC/Tomorrow-Man.jpg",Tomorrow Man
+https://archive.org/download/00300_201912/00300.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D4SR858/Torrente-1.jpg",Torrente 1
+https://archive.org/download/multiplos_de_54/1.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N9p9v6d/Torrente-2.jpg",Torrente 2
+https://archive.org/download/multiplos_de_54/2.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcRwS9b/Torrente-3.jpg",Torrente 3
+https://archive.org/download/multiplos_de_54/3.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qDFxQtZ/Torrente-4.jpg",Torrente 4
+https://archive.org/download/multiplos_de_54/4.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LZr2tBf/Torrente-5.jpg",Torrente 5
+https://archive.org/download/multiplos_de_54/5.mp4
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/64635/movieposter/total-recall-521520faa557b.jpg",Total Recall
+https://dl.dropbox.com/s/n2tiqlufphe342w/Total%20Recall%20%28SS_CANY%29.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjLDZpr/Trascender.jpg",Trascender
+https://archive.org/download/tmbrder/trsndr/trsndr.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pRwtqKM/tremors-poster.jpg",Tremors
+https://dl.dropbox.com/s/9foxkipq2zznxnj/11b1c6d7fdb0b723ddb000feea0578faf4-720p.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sRscKnw/Tremors-2.jpg",Tremors 2
+https://dl.dropbox.com/s/rp6ft2fu7kkw1lr/2274f657949b2ac703d07af7747e0e65c3-720p.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0r2M0fJ/triple.jpg",Triple fontera (2019)
+https://archive.org/download/tr-1-pl-3-fron-73-r-4/TR1PL3%20FRON73R4.mp4
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/399361/movieposter/triple-frontier-5c8e23ffa4415.jpg",Triple Frontera
+https://archive.org/download/tr-1-pl-3-fron-73-r-4/TR1PL3%20FRON73R4.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sVvwm6z/Un-Detective-Suelto-Hollywood.jpg",Un detective suelto en Hollywood
+https://archive.org/download/789456_202003/789456_0101.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WgQLtTN/Un-detective-suelto-en-Hollywood-2.jpg",Un detective suelto en Hollywood II
+https://archive.org/download/789456_202003/789456_0102.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/18TNDpM/Un-detective-suelto-en-Hollywood-3.jpg",Un detective suelto en Hollywood III
+https://archive.org/download/789456_202003/789456_0103.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8z25SBZ/Uns-pareja-ex-1.jpg",Una Pareja Explosiva 1
+https://archive.org/download/rh1_20200302/Rh%20sg/rh1.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0M1HPw/Una-Pareja-Explosiva-2.jpg",Una Pareja Explosiva 2
+https://archive.org/download/rh1_20200302/Rh%20sg/rh2.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFPJTst/Una-Pareja-Explosiva3.jpg",Una Pareja Explosiva 3
+https://archive.org/download/rh1_20200302/Rh%20sg/rh3.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vh6qcXp/V-De-Venganza.jpg",V De Venganza
+https://archive.org/download/vdv_20200409/VDV.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yV01fqd/Van-Helsing.jpg",Van Helsing
+https://ia601408.us.archive.org/15/items/123a_20191206/123a.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPhFNB6/Van.jpg",Van Helsing
+https://dl.dropbox.com/s/78yalld8nmq1383/Van%20Helsing%20%282004%29.mp4
+#EXTINF:-1 tvg-logo="https://archive.org/download/3_20201017_20201017_1926/Today/4.1.png",Venganza Bajo Cero (2019)
+https://archive.org/download/3_20201017_20201017_1926/Today/4.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYQJfS6/Venganza-Implacable.jpg ",Venganza Implacable Opción 2
+https://archive.org/download/videoplayback2_20201229/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback10.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6yf8Wmn/Waterworld.jpg",Waterworld 
+https://archive.org/download/003_20200426_202004/003.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nfM85gx/hh.jpg",White boy rick
+https://archive.org/download/7at_20200608/wht/wby.avi
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHC9RG6/Yesterday.jpg",Yesterday
+https://archive.org/download/delfin_202004/delfin/delfin.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t2C2WYn/yojimbo.jpg",Yojimbo
+https://archive.org/download/faraon/faraon/faraon.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thwy91H/Erase-una-vez-en-mexico.jpg",Érase una vez en México (2003)
+https://archive.org/download/sciyt/Mhuc/11up.avi
