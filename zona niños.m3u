@@ -1,4 +1,6 @@
 #EXTINF:-1 tvg-l
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D7FRZ3z/miraculous.jpg", Miraculous World New york United Heroez.
+https://www.googleapis.com/drive/v3/files/1CY2bDUaaGKyHCVpJnEixavBIHaB0RVEd?alt=media&key=AIzaSyCB_dfyaadx9vfgrHmLI03phz_6N7RGPwk
 #EXTINF:-1 tvg-logo="https://archive.org/download/di_20210329/fifi.png",Go la fiesta inolvidable
 https://archive.org/download/ww-1984_202103/Go%21_La_Fiesta_Inolvidable_2019_Mauro.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M7rXn75/mini-6010556185be1.jpg",Raya y El Ultimo Dragon
@@ -81,14 +83,6 @@ https://archive.org/download/e50772/sub1d0_p4r4_5tr34ming_P5F11X/e50772.mp4
 https://archive.org/download/manuales_202010/El%20gigante%20ego%C3%ADsta%20%282020%29.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/56nGtNz/El-Grinch.jpg",El Grinch
 http://archive.org/download/AnimalesFantsticos20182564564445646/El%20Grinch%20%282018%296464645411.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QbD18k2/H1.png",El Hobbit 1 : Un viaje inesperado
-https://archive.org/download/eh-1_20200613/EH1.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FDxkPqZ/H2.jpg",El Hobbit 2 : La desolacion de Smaug
-https://archive.org/download/eh-2_20200613/EH2.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6t60wxw/H3.jpg",El Hobbit 3 : La batalla de los cinco ejercitos 
-https://archive.org/download/eh-3_20200613/EH3.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk3bpkF/El-Laberinto-Del-fauno.jpg",El laberinto del fauno
-https://archive.org/download/patas_202004/patas/patas.avi
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93V4q5P/El-libro-de-la-selva.jpg",El libro de la selva
 https://dl.dropbox.com/s/dsnysowyfvx64yw/El%20Libro%20De%20La%20Selva.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_llamada_de_lo_salvaje-262975265-large.jpg",El llamado De Lo Salvaje
@@ -108,13 +102,6 @@ https://archive.org/download/4b1_20200101/4b1.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2gw3xHr/El-rey-leon-2019.jpg",El Rey León 2019
 https://archive.org/download/sdalogo0400x400/130n%20%20r3y.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9ySVyG3/El-Rey-Le-n-3-Hakuna-matata.jpg",El Rey León 3: Hakuna matata
-https://archive.org/download/4b1_20200101/4b6.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RvR1Fy8/El-Senor-de-los-anillos.jpg",El Señor De Los Anillos 1 : La Comunidad Del Anillo 
-https://archive.org/download/021_20200427/021.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fYbM8M3/El-Senor-de-los-anillos-2-Torres.jpg",El Señor De Los Anillos 2 : Las Dos Torres 
-https://archive.org/download/022_20200427/022.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tm30DVn/EL-Senor-de-los-anillos-elretorno-del-Rey.jpg",El Señor De Los Anillos 3 : El Retorno Del Rey 
-https://archive.org/download/023_20200427/023.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XCC82np/Escuela-de-Miedo.jpg",Escuela de Miedo
 https://archive.org/download/videoplayback20_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback9.mkv
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/431693/movieposter/spies-in-disguise-5e8d649df1c94.jpg",Espias a escondidas (Op. 2)
@@ -133,22 +120,6 @@ https://archive.org/download/animalprint/animalprint.mkv
 https://www.googleapis.com/drive/v3/files/1rS9jZ2MwgSxP6L61RjGVpspQ_qtpuI6o?alt=media&key=AIzaSyDi70yszvUaTIMj7xTqCHYPzit1wAEc1EU
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XSQ0kgx/Grandes-Heroes-Poster2.jpg",Grandes Heroes 
 https://archive.org/download/videoplayback20_202011/sub1d0_p4r4_5tr34ming_P5F11X/videoplayback20.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GvdXzyp/Harry-Potter-Caliz.jpg",Harry Potter y el cáliz de fuego
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/4.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D8LwHDf/Harry-Potter-Misterio.jpg",Harry Potter y el misterio del príncipe
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/6.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKfXTQ0/Harry-Potter-Azkaban.jpg",Harry Potter y el prisionero de Azkaban
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/3.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h9wPn3N/Harry-Potter-Camara.jpg",Harry Potter y la cámara secreta
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/2.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M9kKs5w/Harry-Potter-Orden-Fenix.jpg",Harry Potter y la orden del Fénix
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/5.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SywgR6c/Harry-Potter-Piedra.jpg",Harry Potter y la piedra filosofal
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/1.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x1xP6Jt/Harry-POtter-Reliq2.jpg",Harry Potter y las reliquias de la muerte - Parte II
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/8.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CPhyjdY/Harry-Potter-Reliquias.jpg",Harry Potter y las reliquias de la muerte Parte I
-http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/7.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qrJNGL5/Hotel-Transylvania.jpg",Hotel Transylvania
 https://dl.dropbox.com/s/yjqgbh8sjmeuw4l/hotel%20transylvania.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tzv1CSf/Hotel-Transylvania-3.jpg",Hotel Transylvania 3 
