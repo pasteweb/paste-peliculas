@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcW4P6C/carreras-clandestinas.jpg",Carreras clandestinas
+https://archive.org/download/bicicleta_202005/Bicicleta.mp4
 #EXTINF: -1 tvg-logo = "https://i.ibb.co/0V2Snsz/asesinos.jpg", Asesinos.
 https://www.googleapis.com/drive/v3/files/1-CDZlY_Ic1sj6YVOjRhudtg35WIKgTG5?alt=media&key=AIzaSyCB_dfyaadx9vfgrHmLI03phz_6N7RGPwk
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fs4vmvq/mercenarios1.jpg",Mercenarios de Elite (2020)
@@ -87,30 +89,16 @@ https://archive.org/download/1_20200428/1.2/2.mp4
 https://archive.org/download/006_20200426/006.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PhYCKrJ/Bloodshot.jpg",Bloodshot (2020)
 https://ia801407.us.archive.org/5/items/san_20200511/San.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wng0b1V/bravehearth.jpg",Braveheart (1995)
-https://archive.org/download/gravity-2013/Braveheart%20%281995%29.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j6Cm3Gv/Burn.jpg",Burn
 https://archive.org/download/1_20200428/1.2/4.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x5JXdzB/B-squeda-implacable-2.jpg",Búsqueda implacable 2 (2012)
 https://dl.dropbox.com/s/iaxes78xjrcpw7x/B%C3%BAsqueda%20implacable%202%20Venganza%20Conexi%C3%B3n%20Estambul%20%282012%29.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvF59TZ/cabo.jpg",Cabo de miedo 
-https://archive.org/download/pssi_20200515/fryu/cdm.mkv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZcW4P6C/carreras-clandestinas.jpg",Carreras clandestinas
-https://archive.org/download/bicicleta_202005/Bicicleta.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KWhKh9n/Casino.jpg",Casino
-https://archive.org/download/ziinoca/opmp/ziinoca.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yqGNQs8/Caza-mayor-2014.jpg",Caza mayor (2014)
 https://dl.dropbox.com/s/9mjltgzxtz9v8w3/Caza%20Mayor.avi
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H2thptV/chungking-1.jpg",Chungking Express
-https://archive.org/download/astol/mon/astol.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/30Gb40r/Comando.jpg",Comando
 https://archive.org/download/comando_202004/Comando.avi
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PmzxWGx/Congo.jpg",Congo
 https://archive.org/download/africa_202004/africa/africa.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2WwxvRK/Contagio.jpg",Contagio
-https://archive.org/download/53843645/5384_3645.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F6RKvtv/Corazon-de-Dragon.jpg",Corazón de Dragon
-https://dl.dropbox.com/s/bdkmf41nbf2o1ms/corazondedragon.avi
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DthVCqM/cosmoball.jpg",Cosmoball (2020)
 https://archive.org/download/manguera/C05m0b411.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3TzM8x4/De-ladron-a-policia.jpg",De ladrón a policía
