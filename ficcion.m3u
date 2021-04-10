@@ -1,4 +1,20 @@
 ﻿#EXTM3U
+#EXTINF: -1 tvg-logo = "https://fanart.tv/fanart/movies/438590/movieposter/axl-5e23803225043.jpg", AXL
+https://archive.org/download/ax_20200528/ax.mp4
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/gPK7BJB/Archive-2020-PS3-Ultimate.jpg", Archivo (2020)
+https://archive.org/download/sabayon-linux/Archive%20%282020%29.mkv
+#EXTINF: -1 tvg-logo = "https://fanart.tv/fanart/movies/141/movieposter/donnie-darko-5cc0a5784bf16.jpg", Donnie Darko
+https://dl.dropboxusercontent.com/s/sjjsnx11rgofro9/Donnie.Darko.2001.SS_CANY.mp4
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/ky9g8Fn/Independence-Day.jpg", Día de la Independencia (op. 2)
+http://archive.org/download/npr82752_zoqqa_1_201903/subid0_p4r4_str34ming_a85/1.mp4
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/LZGQxFL/Interstellar-2014.jpg", Interstellar (2014)
+https://archive.org/download/interstellar-2014/Interstellar%20%282014%29.mkv
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/VwGcwwM/La-Maquina-del-Tiempo.jpg", La maquina del tiempo
+https://ia601408.us.archive.org/15/items/123a_20191206/09mnjg.mp4
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/dcbpHjc/Proyect-Almanac.jpg", Proyecto Almanaque
+https://dl.dropboxusercontent.com/s/jrn5kyiy4dq4cym/Proyecto-Almanac.mp4?fbclid=IwAR1yIgHOOozsmax04dEEKAji8YWdcDJrFrVT5Iq26CU_E6yTftl80JjKpak
+#EXTINF: -1 tvg-logo = "https://i.ibb.co/K0JkYMJ/Skylines-2021.jpg", Skylines (2021) [Eng]
+https://archive.org/download/mandragora-linux/tmp77/Skylines%20%282021%29.mkv
 #EXTINF: -1 tvg-logo = "https://i.ibb.co/n65z2fs/caos1.jpg", Caos (2021) 
 https://archive.org/download/tinaco_20210405/Ch40s.mkv 
 #EXTINF: -1, tvg-logo = "https://archive.org/download/portada-cot/portada%20cot.png", Furia de titanes (1981) 
