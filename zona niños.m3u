@@ -1,5 +1,38 @@
 #EXTINF:-1 tvg-l
-
+#EXTINF:-1="http://archive.org/download/images-2021-01-25-t-115554.476/images%20-%202021-01-25T115554.476.jpeg",ATLANTIS
+http://archive.org/download/atlas_202009/atlas.mp4
+#EXTINF:-1="http://archive.org/download/images-2021-01-22-t-190027.951/images%20-%202021-01-22T190027.951.jpeg",BERNARDO Y BIANCA
+http://archive.org/download/rat_20201001/rat.mp4
+#EXTINF:-1="http://archive.org/download/yoka_20210420/corali.jpg",CORALINE Y LA PUERTA SECRETA
+http://archive.org/download/20c08smp0392lcm43s/20C08SMp0392lcm.mp4
+#EXTINF:-1="http://archive.org/download/streamg1994/DO0R43NL4C1UD4DP3RD1D4jpg.jpg",DORA EN LA CIUDAD PERDIDA
+http://archive.org/download/streamg1994/D0R43NL4C1UD4DP3RD1D4x.mp4
+#EXTINF:-1="http://archive.org/download/images-2021-02-28-t-064645.228/images%20-%202021-02-28T064645.228.jpeg",el camino de Xico
+http://archive.org/download/x1c0_20210419/x1c0.mp4
+#EXTINF:-1="http://archive.org/download/images-4_202103/images%20%284%29.jpeg",ESPIAS A ESCONDIDAS
+http://archive.org/download/spymp4/spymp4.mp4
+#EXTINF:-1="http://archive.org/download/images-2021-02-20-t-215636.567/images%20-%202021-02-20T215636.567.jpeg",FROZEN 2
+http://archive.org/download/fro_20200823/fro.mp4
+#EXTINF:-1="http://hackstore.net/wp-content/uploads/2021/02/flora-y-ulises-2021-bluray-1080p-audio-latino.jpg",FLORA Y ULISES
+http://archive.org/download/streamg1994/fl0r4yul1535.mp4
+#EXTINF:-1="http://archive.org/download/images-2021-02-23-t-165638.409/images%20-%202021-02-23T165638.409.jpeg",LA DAMA Y EL BAGABUNDO 1
+http://archive.org/download/baga_20200826/baga.mp4
+#EXTINF:-1="http://archive.org/download/images-2021-01-25-t-123326.292/images%20-%202021-01-25T123326.292.jpeg",LA DAMA Y EL BAGABUNDO 2
+http://archive.org/download/baga2/baga2.mp4
+#EXTINF:-1="http://archive.org/download/49519-0-ov-19kh-3wt-326af-7fmkbp-1s-0mpcquus-4babsnirmjnk/49519-0-ov19kh3wt326af7fmkbp1s0mpcquus4babsnirmjnk.jpg,LOS CROODS
+http://archive.org/download/jojo.-dvd.-lat.-www.-hackstore.-net/CROODS.DVD.LAT.Www.Hackstore.Net.mp4
+#EXTINF:-1="http://archive.org/download/encrypted-tbn-2-gstatic-com-images-2/encrypted-tbn2_gstatic_com-images%20%282%29.png",LOS CROODS 2: UNA NUEVA ERA
+http://archive.org/download/cr-00-ds-2-1-nf-4-nt-1-l/CR00DS-2-1NF4NT1L.mp4
+#EXTINF:-1="http://archive.org/download/teen_titans_go_to_the_movies-350928120-large/teen_titans_go_to_the_movies-350928120-large.jpg",LOS JOVENES TITANES EN ACCION: LA PELICULA
+http://archive.org/download/l-0-sj-0-v-3-n-3-st-1-t-4-n-3-s-3-n-4-cc-10-nl-4-p-3-l-1-cul-41-nf-4-nt-1-l/L0SJ0V3N3ST1T4N3S3N4CC10NL4P3L1CUL41NF4NT1L.mp4
+#EXTINF:-1="http://image.tmdb.org/t/p/w154/aGFtQaLlhpQ2zmmx9dcx8dNYLuI.jpg",Los Octonautas Y El Cinturón De Fuego
+http://ia601503.us.archive.org/18/items/08860cd-6c-4dee-9dd-01bebb-4dea-356c-92-720p/L0S0CT0N4UT4S.mp4
+#EXTINF:-1="http://archive.org/download/encrypted-tbn2_gstatic_com-images/encrypted-tbn2_gstatic_com-images.png",SOUL
+http://archive.org/download/s-0-u-1-2020-3-str-3-no-1-nf-4-n-71-l/S0U1-2020-3STR3NO-1NF4N71L.avi
+#EXTINF:-1="http://archive.org/download/encrypted-tbn1_gstatic_com-images/encrypted-tbn1_gstatic_com-images.jpg",SHREK LA PELICULA
+http://archive.org/download/jojo.-dvd.-lat.-www.-hackstore.-net/SHREK.DVD.LAT.Www.Hackstore.Net.mp4
+#EXTINF:-1="http://archive.org/download/encrypted-tbn2_gstatic_com-images_202101/encrypted-tbn2_gstatic_com-images_thumb.jpg",VIDA SALVAJE
+http://archive.org/download/v-1-d-4-s-4-lv-4-j-31-nf-4-n-71-l/V1D4S4LV4J31NF4N71L.avi
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WWZ0ZHQ/despertar-de-la-siesta.jpg",Maggie Simpson en El Despertar de la Siesta (2021) (2021)
 https://archive.org/download/tinaco_202105/M5.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1YC9Ysb/22.jpg",22 contra el Mundo (2021)
