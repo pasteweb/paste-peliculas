@@ -1,4 +1,12 @@
 ﻿#EXTM3U
+#EXTINF:-1, a todos los chicos para siempre
+http://ia801502.us.archive.org/25/items/a-todos-los-chicos-para-siempre_202104/A%20todos%20los%20chicos%20Para%20siempre.mp4
+#EXTINF:-1="",GREASE
+http://archive.org/download/musical_202104/grease.mp4
+#EXTINF:-1="http://archive.org/download/aaimagen/AO.jpg",PASEO PARA RECORDAR
+http://archive.org/download/an_20210117/AO.mp4
+#EXTINF:-1="http://archive.org/download/aaimagen/AN.jpg",POSDATA TE AMO
+http://archive.org/download/an_20210117/AN.mp4
 #EXTINF:-1="http://archive.org/download/images-2021-02-23-t-171021.734/images%20-%202021-02-23T171021.734.jpeg",AMIGOS
 http://archive.org/download/siem_20200831/siem.mp4
 #EXTINF:-1="http://archive.org/download/yoka_20210420/che.jpg",CHERRY
