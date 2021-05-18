@@ -1,9 +1,9 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kw9bmCC/despues.jpg",Despues de Ti (2021)
 https://archive.org/download/manguera_202105/D35pu35%20D3%20t1.mkv
-#EXTINF:-1 tvg-logo=, a todos los chicos para siempre
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SyXtkXs/100053900847-107734.jpg" A todos los chicos para siempre
 http://ia801502.us.archive.org/25/items/a-todos-los-chicos-para-siempre_202104/A%20todos%20los%20chicos%20Para%20siempre.mp4
-#EXTINF:-1 tvg-logo="",GREASE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tQ9hs6Q/100062700318-54160.jpg",GREASE
 http://archive.org/download/musical_202104/grease.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/aaimagen/AO.jpg",PASEO PARA RECORDAR
 http://archive.org/download/an_20210117/AO.mp4
@@ -13,7 +13,7 @@ http://archive.org/download/an_20210117/AN.mp4
 http://archive.org/download/siem_20200831/siem.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/yoka_20210420/che.jpg",CHERRY
 http://archive.org/download/tecnicas-para-extender-una-conversacion-en-ingles-2x_202104/CHE.mp4
-#EXTINF:-1 tvg-logo="http://Archive.org/downloAd/bj_20210117/BK.jpg",CRIMENES OSCUROS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vjJ9wKJ/100078800511-32264.jpg",CRIMENES OSCUROS
 https://archive.org/download/bi_20210117/BK.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/mllO4lFsUVSUyTS3HiiidXDPkpB.jpg",EN LA MISMA OLA
 http://ia601503.us.archive.org/18/items/08860cd-6c-4dee-9dd-01bebb-4dea-356c-92-720p/3NL4M1SM40L4.mp4
@@ -23,7 +23,7 @@ http://archive.org/download/ak_20210117/AL.mp4
 http://archive.org/download/l-43-xc-4-v-4-c-10-ndr-4-m-4/L43XC4V4C10NDR4M4.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/aaimagen/AK.jpg",MIDSOMMAR
 http://archive.org/download/ak_20210117/AK.mp4
-#EXTINF:-1 tvg-logo="https//archive.org/download/aaimagen/AB.jpg",HASTA EL ULTIMO HOMBRE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z4885KG/100063600980-51875.jpg",HASTA EL ULTIMO HOMBRE
 http://archive.org/download/aa_20210117/AA.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/9miY5tHWmvVAft4gjqyaXyhLYHY.jpg",MADAME CLAUDE
 http://ia601503.us.archive.org/18/items/08860cd-6c-4dee-9dd-01bebb-4dea-356c-92-720p/M4D4M3CL4UD3.mp4
