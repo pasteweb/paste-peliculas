@@ -1,22 +1,22 @@
 ﻿#EXTM3U
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/N3Vdm0h/Braveheart.jpg", Braveheart (1995)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3Vdm0h/Braveheart.jpg", Braveheart (1995)
 https://archive.org/download/gravity-2013/Braveheart%20%281995%29.mkv
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/0n4B3Cj/Caballo-de-Guerra.jpg", Caballo de Guerra (2011)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0n4B3Cj/Caballo-de-Guerra.jpg", Caballo de Guerra (2011)
 http://archive.org/download/C4B4LL0D33GU3RR4444/C4B4LL0%20D33%20GU3RR4444.mp4
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/pwDwN63/1917.jpg", 1917 (2019) (Op. 2)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pwDwN63/1917.jpg", 1917 (2019) (Op. 2)
 https://archive.org/download/tapita/tapita/tapita.mkv
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/HBtTDFg/cc.jpg", 7 años en el Tibet
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HBtTDFg/cc.jpg", 7 años en el Tibet
 https://archive.org/download/7at_20200608/7an/7at.avi
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/7yz5v9j/Bastardos-sin-Gloria.jpg", Bastardos sin gloria
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7yz5v9j/Bastardos-sin-Gloria.jpg", Bastardos sin gloria
 https://archive.org/download/chocolate_202004/chocolate/chocolate.mkv
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/Wng0b1V/bravehearth.jpg", Braveheart (1995)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wng0b1V/bravehearth.jpg", Braveheart (1995)
 https://archive.org/download/gravity-2013/Braveheart%20%281995%29.mp4
-#EXTINF: -1 tvg-id = "EPG N / A" tvg-name = "El Ultimo Samurai" tvg-logo = "http://es.web.img2.acsta.net/c_215_290/medias/nmedia/18 /67/78/13/20066706.jpg",El Último Samurai
+#EXTINF:-1 tvg-logo="EPG N / A" tvg-name = "El Ultimo Samurai" tvg-logo = "http://es.web.img2.acsta.net/c_215_290/medias/nmedia/18 /67/78/13/20066706.jpg",El Último Samurai
 https://archive.org/download/1_20191226_20191226/1.avi
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/N1ftkg9/Francotirador.jpg", Francotirador
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N1ftkg9/Francotirador.jpg", Francotirador
 https://archive.org/download/11.-2014-hd-dual-lat.c_202005/American.sniper.2014-hd-dual-lat.c.mp4
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/xYbNyWk/Asd-B9-A2-XGal-CZVjly-G9t-Rf03-If-W.jpg", Greyhound: Enemigos bajo el mar ( 2020)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xYbNyWk/Asd-B9-A2-XGal-CZVjly-G9t-Rf03-If-W.jpg", Greyhound: Enemigos bajo el mar ( 2020)
 https://dl.dropbox.com/s/rbiy36qy2rr7wwu/Greyhound%20HDR%20Latino.mp4
-#EXTINF: -1 tvg-logo = "https://i.ibb.co/ygbhg7v/Hombres-dementes.jpg", Hombres de mentes
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ygbhg7v/Hombres-dementes.jpg", Hombres de mentes
 https://archive.org/download/kohbn/ptol/mkpoij.mp4
 
