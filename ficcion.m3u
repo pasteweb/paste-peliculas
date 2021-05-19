@@ -1,7 +1,7 @@
 ﻿#EXTM3U
-#EXTINF: -1 tvg-logo ="http://archive.org/download/aaimagen/AP.jpg",SEÑALES
+#EXTINF:-1 tvg-logo="http://archive.org/download/aaimagen/AP.jpg",SEÑALES
 http://archive.org/download/an_20210117/AP.mp4
-#EXTINF: -1 tvg-logo ="http://archive.org/download/aaimagen/AI.jpg",SNOWPIECER
+#EXTINF:-1 tvg-logo="http://archive.org/download/aaimagen/AI.jpg",SNOWPIECER
 http://archive.org/download/ak_20210117/AI.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8c9CNqM/skyline.jpg",skylin3rs (2020)
 https://dl.dropbox.com/s/hb7d3f6ino8xrw7/Skylines%20%282020%29%20HD%20720p%20Latino.mkv
