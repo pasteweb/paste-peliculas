@@ -1,4 +1,8 @@
-# EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2F4t2W8/alucinaciones1.jpg",Alucinaciones del pasado
+https://archive.org/download/tinaco_20210527/Alucinaciones%20Del%20Pasado.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVkWwRN/experimento1.jpg",Experimento Fantasma
+https://archive.org/download/manguera_20210527/El.Experimento.Fantasma.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ngQynHB/100078000644-32350.jpg",CHUKY
 http://archive.org/download/y-2mate.com-chucky-1-pelicula-completa-en-espanol-quedate-encasa-2020-360p/y2mate.com%20-%20chucky%201%20pel%C3%ADcula%20completa%20en%20espa%C3%B1ol%20QuedateEncasa%202020_360p.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/images-2021-02-27-t-182521.262/images%20-%202021-02-27T182521.262.jpeg",COME PLAY
