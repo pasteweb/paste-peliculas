@@ -1,6 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="http://Archive.org/download/bj_20210117/BD.jpg",ACE VENTURA.
-http://archive.org/download/bb_20210117/BD.avi
+
 #EXTINF:-1 tvg-logo="http://Archive.org/download/bj_20210117/BE.jpg",ACE VENTURA 2
 http://archive.org/download/bb_20210117/BE.avi
 #EXTINF:-1 tvg-logo="http://archive.org/download/aaimagen/AV.jpg",APRENDICES FUERA DE LINEA
