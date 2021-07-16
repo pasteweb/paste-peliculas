@@ -164,17 +164,17 @@ http://ia601500.us.archive.org/17/items/000_20191202_20191202/1.mp4
 http://archive.org/download/1_20190828_20190828_2038/atte_sd_sdsadsd21/1.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WkkKMRm/hacksaw-ridge-698653296-large.png",HASTA EL ULTIMO HOMBRE
 http://archive.org/download/gikudec5/Sub1d0_p4r4_5tr34ming_A85_Cr15T14n4S/9.mp4
-#EXTINF:-1="https://i.ibb.co/94YkbJY/hellboy-819264894-large.png",HELLBOY 2019
+#EXTINF:-1 tvg-logo=https://i.ibb.co/94YkbJY/hellboy-819264894-large.png",HELLBOY 2019
 http://ia601405.us.archive.org/26/items/000_20200306_202003/04.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3BphwST/hitman-339032424-large.png",HITMAN
 http://ia801302.us.archive.org/16/items/HI7M4N/HI7M4N.463N7.47-360-ES.mp4
-#EXTINF:-1="https://i.ibb.co/YWBnmfT/the-hulk-283958535-large.png",HULK
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YWBnmfT/the-hulk-283958535-large.png",HULK
 http://archive.org/download/correoicfes2016_gmail_42/ulk.mp4
-#EXTINF:-1="https://i.ibb.co/LSKPVWr/i-am-mother-377346326-large.png",I AM MOTHER 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LSKPVWr/i-am-mother-377346326-large.png",I AM MOTHER 
 http://ia601502.us.archive.org/23/items/0o2b38sn29s1/0a7wbs51b00.mp4
-#EXTINF:-1="https://i.ibb.co/68FLzPN/in-the-cloud-909002560-large.png",I N THE CLOUD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/68FLzPN/in-the-cloud-909002560-large.png",I N THE CLOUD
 http://ia801401.us.archive.org/12/items/000_20191205_201912/4.mp4
-#EXTINF:-1="https://i.ibb.co/hRT5T1J/undisputed-ii-last-man-standing-163436757-large.png",INVICTO 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRT5T1J/undisputed-ii-last-man-standing-163436757-large.png",INVICTO 2
 http://archive.org/download/20200515-134533/4plmngdj346hf2ub8ds25f.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/i0_wp_com-ipman-4-poster_202102/i0_wp_com-ipman-4-poster.jpg",IP MAN 4
 http://archive.org/download/1-pm-4-n-43-lf-1-n-4-l-2020/1PM4N43LF1N4L2020.mp4
@@ -294,13 +294,11 @@ http://archive.org/download/img20200214wa0003/5ub1d0p0rgu713rr3s.mp4
 http://archive.org/download/tecnicas-para-extender-una-conversacion-en-ingles-2x_202104/TAL.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/images_20210118/images.jpg",MUJER MARAVILLA 1984
 http://archive.org/download/muj-3-rm-4-r-4-v-1-ll-41984/MUJ3RM4R4V1LL41984.mp4
-#EXTINF:-1 tvg-logo="",NADIE
-http://ia801503.us.archive.org/18/items/08860cd-6c-4dee-9dd-01bebb-4dea-356c-92-720p/hass.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tbKgLHz/ninja-apocalypse-560984692-large.png",NINJA APOCALYPSE
 http://ia601408.us.archive.org/33/items/1_20190828_201908/atte_sd_sd/1.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wWnMXcX/non-stop-314191791-large.png",NON-STOP(SIN ESCALAS)
 http://archive.org/download/3-ntr-3-n-4-nd-04-p-4-p-41-nf-4-n-71-l/N0N%24T0P4CC10N.mp4
-#EXTINF:-1 tvg-logo="",OFFLINE LA VIDA NO ES UN VIDEOJUEGO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ct8NrKP/offline-454804289-large.png",OFFLINE LA VIDA NO ES UN VIDEOJUEGO
 http://ia601402.us.archive.org/22/items/1_20191127_20191127_1730/10.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/static-wikia-nocookie-net-450-1/static_wikia_nocookie_net-450%20%281%29.jpg",OLIMPO BAJO FUEGO
 http://archive.org/download/jojo.-dvd.-lat.-www.-hackstore.-net/OLIMPO.DVD.LAT.Www.Hackstore.Net.mp4
@@ -358,21 +356,21 @@ http://ia801409.us.archive.org/30/items/000_20200106/4.mp4
 http://ia801505.us.archive.org/14/items/00000_20200410_2219/06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3sbFSz/spider-man-spiderman-945131720-large.png",SPIDERMAN 1
 http://archive.org/download/01_20191213_20191213_1900/heheke/01.mp4
-#EXTINF:-1="https://i.ibb.co/6mnRmfb/spider-man-2-spiderman-2-876729560-large.png",SPIDERMAN 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6mnRmfb/spider-man-2-spiderman-2-876729560-large.png",SPIDERMAN 2
 http://archive.org/download/07_20191209/hoiho/05.mp4
-#EXTINF:-1="https://i.ibb.co/r5fcZ3C/spider-man-3-spiderman-3-381165300-large.png",SPIDERMAN 3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r5fcZ3C/spider-man-3-spiderman-3-381165300-large.png",SPIDERMAN 3 
 http://archive.org/download/07_20191209/hoiho/03.mp4
-#EXTINF:-1="https://i.ibb.co/znKv142/spider-man-homecoming-336093112-large.png",SPIDERMAN HOMECOMING 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/znKv142/spider-man-homecoming-336093112-large.png",SPIDERMAN HOMECOMING 
 http://ia601402.us.archive.org/22/items/1_20191127_20191127_1730/9.mp4
-#EXTINF:-1="https://i.ibb.co/GQtj0gz/spider-man-far-from-home-339542528-large.png",SPIDERMAN LEJOS DE CASA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQtj0gz/spider-man-far-from-home-339542528-large.png",SPIDERMAN LEJOS DE CASA
 http://archive.org/download/menu_20200716/5p1dt3rmh4nLh3j05%20d3C454.mp4
-#EXTINF:-1="https://i.ibb.co/0tg0GJf/starship-troopers-376116696-large.png",STARSHIP TROOPERS LA INVASION
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tg0GJf/starship-troopers-376116696-large.png",STARSHIP TROOPERS LA INVASION
 http://archive.org/download/w-17-fl-1-x-1/574r5h1p7r00p3r5%20l41nv4510n.mp4
-#EXTINF:-1="https://i.ibb.co/X3G9NRZ/talento-de-barrio-152379794-large.png",TALENTO DE BARRIO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X3G9NRZ/talento-de-barrio-152379794-large.png",TALENTO DE BARRIO
 http://archive.org/download/fbimg15795673176006668/J4v13rl0p3z.mp4
-#EXTINF:-1="https://i.ibb.co/P4r8htF/taxi-driver-559150579-large.png",TAXI DRIVER
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4r8htF/taxi-driver-559150579-large.png",TAXI DRIVER
 http://archive.org/download/ditemo1/Sub1d0_p4r4_5tr34ming_A85_V4R145_8/9.mkv
-#EXTINF:-1="https://i.ibb.co/58NQpQp/t2-terminator-2-judgment-day-825143697-large.png",TERMINATOR 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58NQpQp/t2-terminator-2-judgment-day-825143697-large.png",TERMINATOR 2
 http://archive.org/download/yassergonzalezwitflix/73RM1N470R2.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PTjyhJ8/the-gentlemen-425828685-large.png",THE GENTLEMAN (LOS CABALLEROS)
 http://archive.org/download/3_20200608_20200608_1702/1.mp4
@@ -418,7 +416,7 @@ https://archive.org/download/035_20200504/035.mkv
 http://fina.dyndns.tv/Peliculas/Arma%20Mortal%201.mkv
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/av68pvleo5rar7g/arma%20%20mortal%202.jfif",ARMA MORTAL 2
 http://fina.dyndns.tv/Peliculas/Arma%20Mortal%202.mkv
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ai36bum0okf8u2u/arma%20mortal%203.jpg",ARMA MORTAL3
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ai36bum0okf8u2u/arma%20mortal%203.jpg", ARMA MORTAL3
 http://fina.dyndns.tv/Peliculas/Arma%20Mortal%203.mkv
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71X0ZRsGPOL._SY445_.jpg",ARMA MORTAL 4
 http://fina.dyndns.tv/Peliculas/Arma%20Mortal%204.mkv
@@ -520,7 +518,7 @@ https://archive.org/download/elmari2dvdlat/mrne/elmarin4dvdlat.avi
 https://archive.org/download/pel-0-.mp-4/Varias/PEL0%20.mp4.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1TwCL5D/El-Perfecto-Asesino.jpg",El Perfecto Asesino (1994)
 https://archive.org/download/pssi_20200515/fryu/pssi.mkv
-#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/c_215_290/medias/nmedia/18/67/78/13/20066706.jpg",El Último Samurai
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/c_215_290/medias/nmedia/18/67/78/13/20066706.jpg", El Último Samurai
 https://archive.org/download/1_20191226_20191226/1.avi
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZ8h47D/Enemigo-Mio.jpg",Enemigo mío
 https://dl.dropbox.com/s/1bgxrybhjh6tqe4/enemigo%20mio%20%281985%29%20720p.mkv
@@ -532,7 +530,7 @@ https://archive.org/download/sdalogo0400x400/32C4P3%20D3%20L02%204NG3132.mkv
 https://dl.dropbox.com/s/0dzynfvn6qyxxgc/Expedientes%20Secretos%20X.avi
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/movies/8836/movieposter/the-x-files-i-want-to-believe-521b8fe1be95d.jpg",Expedientes secretos X 2
 https://dl.dropbox.com/s/entvkg9vcdkm0hb/Expedientes%20secretos%20X%202%20Creer%20es%20la%20clave%20%282008%29.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k40CGFf/Force-of-Nature-2020.jpg",Force of Nature (2020)
+#EXTINF:-1 tvg-logo="https://archive.org/download/lod_20210405/lod.png", Force of Nature (2020)
 https://dl.dropbox.com/s/81hsunfcyer6bbv/forceofnature.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6Y836LV/3-CKb-EXrw88-LNv-BU3ba-ISh1-I7-JP4.jpg",Gravedad (2013)
 https://archive.org/download/gravity-2013/Gravity%20%282013%29.mp4
@@ -593,9 +591,9 @@ https://archive.org/download/quimica1_202009/Parker%20%282013%29.mkv
 https://archive.org/download/040_20200504/040.avi
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nc1xXqn/Mas-Rapidos-mas-furiosos.jpg",Rapido y Furioso 2 Más Rápido y más Furioso
 https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20002.MP4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NtMzkXX/Robocop-1.jpg",Robocop 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NtMzkXX/Robocop-1.jpg", Robocop 1
 https://archive.org/download/zzroti/zzroti/zzroti.mp4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yp9HwQC/Robocop-3.jpg",Robocop 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yp9HwQC/Robocop-3.jpg", Robocop 3
 https://archive.org/download/zzroti3/zzroti3.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdjwQmD/Rapido-y-Furioso.jpg",Rápido y furioso
 https://archive.org/download/asdhjasdjhasdkj001/asdhjasdjhasdkj/asdhjasdjhasdkj%20001.mp4
