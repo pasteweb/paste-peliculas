@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5rKS00j/class-of-1999-578156829-large.png", Clase De 1999
+https://archive.org/download/clssof19ninenine/ClssOF19ninenine.mkv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CvZC6Fz/aliens-989223912-large.png", Alien 2
+https://archive.org/download/al-1en-z/Al1enZ.mkv
 #EXTINF:-1 tvg-logo="http://archive.org/download/aaimagen/AP.jpg",SEÑALES
 http://archive.org/download/an_20210117/AP.mp4
 #EXTINF:-1 tvg-logo="http://archive.org/download/aaimagen/AI.jpg",SNOWPIECER
